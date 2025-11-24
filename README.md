@@ -1,3 +1,3 @@
 # demo
 this is my first git repository
-Author - Anfaal
+Author - Anfaal inayat
